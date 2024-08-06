@@ -6,15 +6,15 @@ DURATION:- JULY  to AUGUST
 MENTOR:- Muzammil Ahmed
 
 
-Over View Of The project
-project:Set up Apache Kafka for data ingestion and streaming. This project helps youunderstand the basics of event streaming and data processing. Create Kafka producers  and consumers in java or python .stream  and process  data from producers to consumers.
+Over View Of The project:-
+project:-Set up Apache Kafka for data ingestion and streaming. This project helps youunderstand the basics of event streaming and data processing. Create Kafka producers  and consumers in java or python .stream  and process  data from producers to consumers.
 
 
 objective:-
 Set up Apache Kafka for data ingestion and streaming, creating producers and consumers in Java or Python to understand event streaming and data processing fundamentals.
 
 
-procedure( Google colab):-
+Key Activities /procedure( Google colab):-
 ===========
 Step 1: Install Kafka and Dependencies
    Install Java
